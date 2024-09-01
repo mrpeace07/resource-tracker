@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-blue-50 text-white p-4 flex justify-end items-center">
       <a
         href="https://codetracker-gpt.netlify.app/" // Replace with your actual URL
-        target="_blank"
+  
         rel="noopener noreferrer"
         className="inline-block mr-10" 
       >
