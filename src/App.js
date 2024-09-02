@@ -17,12 +17,12 @@ const cardData = [
       },
       {
         name: "LeetCode Top 150",
-        url: "https://leetcode.com/problem-list/top-interview-questions/",
+        url: "https://leetcode.com/studyplan/top-interview-150/",
         description: "A curated list of the top 150 problems frequently asked in technical interviews, available on LeetCode.",
       },
       {
         name: "Ninjas SDE Sheet",
-        url: "https://www.codingninjas.com/studio/sde-sheet",
+        url: "https://www.naukri.com/code360/problem-lists/ninjas-sde-sheet",
         description: "A structured sheet focusing on SDE interview preparation, provided by Coding Ninjas, with problem links and explanations.",
       },
       {
@@ -59,7 +59,7 @@ const cardData = [
     resources: [
       {
         name: "Love Babbar's One-Shot OS Video",
-        url: "https://www.youtube.com/watch?v=rrBJRc8Qn4k",
+        url: "https://www.youtube.com/watch?v=3obEP8eLsCw&t=102s",
         description: "A concise one-shot video by Love Babbar covering key concepts of Operating Systems, perfect for quick revision before interviews.",
       },
       {
@@ -74,17 +74,17 @@ const cardData = [
       },
       {
         name: "Apna College OS Notes",
-        url: "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0g8OJp6Nej9kS4t04JwBU4",
+        url: "https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl",
         description: "Lecture series from Apna College, providing an in-depth understanding of OS concepts, tailored for beginners and students.",
       },
       {
         name: "Gate Smashers OS Lectures",
-        url: "https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SibV5rMUGnU8mJ",
+        url: "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
         description: "A detailed video lecture series by Gate Smashers, covering all major topics of Operating Systems in a structured and clear manner.",
       },
       {
         name: "Neso Academy OS Tutorials",
-        url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiThn9ukUHHdqDHq",
+        url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
         description: "Neso Academy provides a thorough walkthrough of OS concepts, from basics to advanced, with easy-to-understand video tutorials.",
       },
     ],
@@ -102,12 +102,12 @@ const cardData = [
       },
       {
         name: "DBMS One-Shot Video by Love Babbar",
-        url: "https://www.youtube.com/watch?v=EosDdByTQLg",
+        url: "https://www.youtube.com/watch?v=dl00fOOYLOM",
         description: "Love Babbar's one-shot video covering all important DBMS concepts, ideal for quick revision and interview preparation.",
       },
       {
-        name: "LeetCode 150 SQL Problems",
-        url: "https://leetcode.com/problemset/database/",
+        name: "LeetCode 50 SQL Problems",
+        url: "https://leetcode.com/studyplan/top-sql-50/",
         description: "Practice SQL queries with LeetCode's curated set of 150 SQL problems ranging from easy to hard, perfect for improving SQL skills.",
       },
       {
@@ -118,7 +118,7 @@ const cardData = [
      
       {
         name: "Normalization Concepts (GeeksforGeeks)",
-        url: "https://www.geeksforgeeks.org/database-normalization/",
+        url: "https://www.geeksforgeeks.org/normalization-process-in-dbms/",
         description: "Detailed explanation of normalization techniques, including first, second, and third normal forms, and how to apply them effectively to database design.",
       },
      
@@ -149,12 +149,12 @@ const cardData = [
       },
       {
         name: "Neso Academy Computer Networks Lectures",
-        url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM",
+        url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&si=gruXtrfQwmWmhFvj",
         description: "Comprehensive video lectures by Neso Academy on networking topics, focusing on the OSI model, TCP/IP model, and network security.",
       },
       {
         name: "Gate Smashers Computer Networks",
-        url: "https://www.youtube.com/playlist?list=PLLy_2iUCG87DQzvTcb78elFjAIYVo6_yz",
+        url: "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
         description: "Gate Smashers provides an in-depth series on Computer Networks, covering key topics like IP addressing, routing, and transport layers.",
       },
       {
@@ -164,23 +164,13 @@ const cardData = [
       },
       {
         name: "Apna College Computer Networks Notes",
-        url: "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+        url: "https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl",
         description: "Apna College's video series explaining networking concepts in a simplified manner, with a focus on practical aspects and theory.",
       },
       {
         name: "GeeksforGeeks Network Layer Protocols",
         url: "https://www.geeksforgeeks.org/network-layer-in-osi-model/",
         description: "A deep dive into the Network Layer of the OSI model, including protocols, IP addressing, and routing algorithms.",
-      },
-      {
-        name: "Neso Academy Data Link Layer",
-        url: "https://www.youtube.com/watch?v=9y7EdEwTkG8&list=PLBlnK6fEyqRj_w1q62h1m5RlS8S1vn7j8",
-        description: "Neso Academy's playlist on the Data Link Layer, explaining concepts like MAC addressing, Ethernet, and error detection.",
-      },
-      {
-        name: "Gate Smashers Transport Layer",
-        url: "https://www.youtube.com/watch?v=DhzDXMUTLUU",
-        description: "A focused lecture on the Transport Layer, discussing TCP/UDP, flow control, and congestion control mechanisms.",
       },
     ],
   },
@@ -196,12 +186,12 @@ const cardData = [
       },
       {
         name: "OOP in C++ by Love Babbar",
-        url: "https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG",
+        url: "https://www.youtube.com/watch?v=i_5pvt7ag7E&t=35s",
         description: "A detailed video series by Love Babbar, explaining OOP concepts in C++ with practical coding examples, suitable for beginners and intermediate learners.",
       },
       {
         name: "OOP in Java by Apna College",
-        url: "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtM3b9CkgMzKpRHpW_H8t",
+        url: "https://www.youtube.com/watch?si=5zzdwRBMFhqIIwEk&v=bSrm9RXwBaI&feature=youtu.be",
         description: "An easy-to-follow series on OOP in Java by Apna College, covering basic to advanced concepts with a focus on interview-oriented questions.",
       },
       {
